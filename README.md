@@ -18,4 +18,4 @@ This section is provided for reference only, to give you insight into how the pr
 - `npm install --save-dev @types/pg`
 - `npm install dotenv`
 - `npm install zod`
-- `npm install bcrypt`
+- `npm install bcryptjs`
